@@ -16,7 +16,7 @@ Memento des commandes vues pendant la formation
 * git switch
 * git checkout
 
-## Les workflow
+## Les workflows
 
 * Centralized Workflow
 * Git flow
