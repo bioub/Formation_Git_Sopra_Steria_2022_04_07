@@ -21,3 +21,4 @@ Memento des commandes vues pendant la formation
 * Centralized Workflow
 * Git flow
 * Github flow
+* Gitlab flow
