@@ -9,3 +9,9 @@ Memento des commandes vues pendant la formation
 * git add
 * git status
 * git commit
+
+## Commandes sur les branches
+
+* git branch
+* git switch
+* git checkout
